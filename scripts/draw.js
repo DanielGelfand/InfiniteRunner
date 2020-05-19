@@ -20,8 +20,6 @@ let pipes;
 let zombies;
 let runner;
 let gameEnded;
-let runnerImage = new Image();
-runnerImage.src = "images/sprites.png";
 let blood = new Image();
 blood.src = "images/blood.png";
 let highScore = 0;

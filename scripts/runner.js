@@ -1,4 +1,5 @@
-
+let runnerImage = new Image();
+runnerImage.src = "images/sprites.png";
 
 function Runner(cycle_loop) {
   this.x = 0;
