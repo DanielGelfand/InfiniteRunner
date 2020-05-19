@@ -21,9 +21,9 @@ let zombies;
 let runner;
 let gameEnded;
 let runnerImage = new Image();
-runnerImage.src = "sprites.png";
+runnerImage.src = "images/sprites.png";
 let blood = new Image();
-blood.src = "blood.png";
+blood.src = "images/blood.png";
 let highScore = 0;
 /*******************/
 

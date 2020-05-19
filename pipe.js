@@ -1,5 +1,5 @@
 let pipeImage = new Image();
-pipeImage.src = "spike.png"
+pipeImage.src = "images/spike.png"
 
 function Pipe() {
   this.x = Math.floor(Math.random() * (800 - 700) + 700);

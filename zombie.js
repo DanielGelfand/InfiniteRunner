@@ -1,5 +1,5 @@
 let zombieImage = new Image();
-zombieImage.src = "zombie.png"
+zombieImage.src = "images/zombie.png"
 
 function Zombie() {
   this.x = pipes[Math.floor(Math.random() * (pipes.length-1)) + 1].x + 100;

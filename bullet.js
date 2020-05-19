@@ -1,5 +1,5 @@
 let bulletImage = new Image();
-bulletImage.src = "laserBullet.png"
+bulletImage.src = "images/laserBullet.png"
 
 function Bullet() {
   this.x = 20;
